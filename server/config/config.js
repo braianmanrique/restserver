@@ -11,7 +11,7 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 
 
 //===============================
-// Base de datos
+// Base de Datos
 //===============================
 let urlDB;
 
